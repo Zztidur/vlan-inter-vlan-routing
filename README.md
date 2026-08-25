@@ -1,0 +1,1 @@
+Project ini membagi jaringan menjadi 3 VLAN terpisah (Staff, Management, Guest) untuk isolasi trafik antar divisi, lalu menghubungkan antar VLAN menggunakan metode Router-on-a-Stick dengan subinterface 802.1Q (dot1Q). Project ini menunjukkan pemahaman tentang VLAN segmentation, trunking, dan inter-VLAN routing dalam satu alur project yang berkesinambungan.
